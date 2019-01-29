@@ -1,0 +1,18 @@
+Syntax parser is simply just a program thats job is to read your character by character.
+for example: 
+
+function hello() {
+    console.log("Hello!);
+}
+
+hello();
+
+in that above code synatax parser is reading your code character by character like it is starting parsing like: 'f' 'u' 'n' 'c' 't' 'i' 'o' 'n'  oh yes, thats a function 
+there should be space after it. then i see name of that function up until parenthesis and after that so and so on!
+
+The code you write in javascript is not what directly telling computer what to do. its being translated 
+from what you've written to what a harder understands easily!
+
+That program ( a compiler ) do the work of synatx parsing like it goes through your code 
+character by character and checking if that syntax is valid or not if so, then it allows it to 
+be translated in such a way that it is easily to be implemented to computer hardware for the desired output! 
